@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/stitchkit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stitch identifiers and kit tokens for idempotent workflows.",
+  "bin": {
+    "stitchkit": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/stitchkit.git"
+  },
+  "homepage": "https://theworker02.github.io/stitchkit/",
+  "keywords": [
+    "stitch",
+    "kit",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
